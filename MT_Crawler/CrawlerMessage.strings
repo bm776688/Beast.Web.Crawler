@@ -1,0 +1,6 @@
+MissConfigFile(sectionName) = Cannot find config file {0}
+MissConfigKey(keyName) = Configuration file do not have key {0}
+ConvertFailed(keyName, value, toType) = Can not convert Key {0} Value {1} to {2}
+RequestExceedMaxAllowed = Request exceed max allowed queued number.
+TpsExceed = TPS exceed max allowed thresh.
+TimeoutAbort(time) = Request is aborted because of timeout. Operation did not complete within the allotted timeout of {0}.
